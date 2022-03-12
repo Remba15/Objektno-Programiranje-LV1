@@ -1,0 +1,11 @@
+C:\Users\renat\Desktop\Objektno programiranje LV1 - Renato Kuna\LV1 - win forme\bin\Debug\LV1 - win forme.exe.config
+C:\Users\renat\Desktop\Objektno programiranje LV1 - Renato Kuna\LV1 - win forme\bin\Debug\LV1 - win forme.exe
+C:\Users\renat\Desktop\Objektno programiranje LV1 - Renato Kuna\LV1 - win forme\bin\Debug\LV1 - win forme.pdb
+C:\Users\renat\Desktop\Objektno programiranje LV1 - Renato Kuna\LV1 - win forme\obj\Debug\LV1 - win forme.csproj.AssemblyReference.cache
+C:\Users\renat\Desktop\Objektno programiranje LV1 - Renato Kuna\LV1 - win forme\obj\Debug\LV1 - win forme.csproj.SuggestedBindingRedirects.cache
+C:\Users\renat\Desktop\Objektno programiranje LV1 - Renato Kuna\LV1 - win forme\obj\Debug\LV1___win_forme.Form1.resources
+C:\Users\renat\Desktop\Objektno programiranje LV1 - Renato Kuna\LV1 - win forme\obj\Debug\LV1___win_forme.Properties.Resources.resources
+C:\Users\renat\Desktop\Objektno programiranje LV1 - Renato Kuna\LV1 - win forme\obj\Debug\LV1 - win forme.csproj.GenerateResource.cache
+C:\Users\renat\Desktop\Objektno programiranje LV1 - Renato Kuna\LV1 - win forme\obj\Debug\LV1 - win forme.csproj.CoreCompileInputs.cache
+C:\Users\renat\Desktop\Objektno programiranje LV1 - Renato Kuna\LV1 - win forme\obj\Debug\LV1 - win forme.exe
+C:\Users\renat\Desktop\Objektno programiranje LV1 - Renato Kuna\LV1 - win forme\obj\Debug\LV1 - win forme.pdb
